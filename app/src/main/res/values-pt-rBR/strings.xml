@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Conectar-se</string>
+    <string name="title">Conecte-se</string>
+    <string name="description">Faça login para continuar</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="button_sign_in">Entrar</string>
+    <string name="question">Não tem uma conta?</string>
+    <string name="question_button_sign_up">Inscreva-se</string>
+
+    <string name="title_activity_sign_up">Inscreva-se</string>
+    <string name="description_sing_up">Criar uma nova conta</string>
+    <string name="username">Criar uma nova conta</string>
+    <string name="phone">Telefone</string>
+    <string name="chatbox">Mais de 18?</string>
+    <string name="button_create">CRIAR CONTAT</string>
+    <string name="description_question">Já tem uma conta??</string>
+    <string name="question_button_sign_in">Entrar</string>
+</resources>
